@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Change in Total Annual Precipitation 1901-2021</title>
+                <onlink>https://gis.chesapeakebay.net/server/rest/services/ChesapeakeProgress/cpClimate_Precipitation/MapServer/2</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This map shows the rate of change in total annual precipitation in the Chesapeake Bay watershed since 1901. The data are shown for climate divisions, as defined by the National Oceanic and Atmospheric Administration. For more information: www.epa.gov/climate-indicators</abstract>
+            <purpose>Indicator of Climate Monitoring and Assessment Outcome on Chesapeake Progress. It shows the rate of change in total annual precipitation in the Chesapeake Bay watershed since 1901.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Climate Resiliency</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>None</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Chesapeake Bay Program</cntorg>
+                </cntorgp>
+            </cntinfo>
+        </ptcontac>
+        <datacred>EPA</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20241009</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

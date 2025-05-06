@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Change in High Temperature Extremes 1948-2017</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This map shows trends in unusually hot temperatures at individual weather stations that have operated consistently since 1948. In this case, the term “unusually hot” refers to a daily maximum temperature that is hotter than the 95th percentile temperature during the 1948–2017 period. Thus, the maximum temperature on a particular day at a particular station would be considered “unusually hot” if it falls within the warmest 5 percent of measurements at that station during the 1948–2017 period. The map shows changes in the total number of days per year that were hotter than the 95th percentile. Red upward-pointing symbols show where these unusually hot days are becoming more common. Blue downward-pointing symbols show where unusually hot days are becoming less common. For more information: www.epa.gov/climate-indicators</abstract>
+            <purpose>Indicator of Climate Monitoring and Assessment Outcome on Chesapeake Progress. It shows how trends in unusually hot daily temperatures throughout the year vary by location.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Climate Resiliency</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>None</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Chesapeake Bay Program</cntorg>
+                </cntorgp>
+            </cntinfo>
+        </ptcontac>
+        <datacred>EPA</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20241009</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
